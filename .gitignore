@@ -1,0 +1,6 @@
+/.idea
+/log
+*.log
+*.exe
+coverage.txt
+coverage.html
